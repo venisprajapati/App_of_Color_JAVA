@@ -1,2 +1,5 @@
-# App_of-_Color_JAVA
+# App_of_Color_JAVA
 The app made with android java, provides us the basic idea of functions..
+using intent function and passing strings through different screens...
+which also uses only one screen for color change..
+then we are having good idea of defining new colors and using manifest file...

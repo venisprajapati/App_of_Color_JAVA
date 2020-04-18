@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Of Functions By .Venis.</string>
+    <color name="titlebackgroundcolor">#3232CD</color>
+    <color name="titletextcolor">#FFFF00</color>
+    <string name="title_activity_2">Activity2</string>
+</resources>
